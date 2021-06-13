@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"name": "angular",
+			"path": ".."
+		},
+		{
+			"name": "src",
+			"path": "..\\..\\..\\samsung desarrolladoras\\materiales\\desarrollo full_stack\\angular\\ejemplos\\ANGULAR\\Ejemplo Práctica\\src"
+		},
+		{
+			"name": "src",
+			"path": "..\\..\\..\\samsung desarrolladoras\\materiales\\desarrollo full_stack\\angular\\ejemplos\\ANGULAR\\EJemplos de código\\Formularios reactivos\\src"
+		}
+	],
+	"settings": {}
+}
